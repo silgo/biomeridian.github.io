@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "BMP Terapie Naturalne",
+    "name": "biomeridian",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -59,7 +59,7 @@
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": "https://bmp2020.github.io/",
+    "siteUrl": "https://biomeridian.github.io/",
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
@@ -78,7 +78,8 @@
       "underlineLink": false,
       "text": "Dalsze korzystanie ze strony oznacza zgodę <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-164808305-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-164808305-1');\n</script>\n"
   },
   "pages": {
     "index.html": {
