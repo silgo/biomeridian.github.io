@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "biomeridian",
-    "currentPage": "zioła chińskie Rybnik.html",
+    "currentPage": "porady zywieniowe.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -8596,8 +8596,8 @@
     },
     "porady zywieniowe.html": {
       "settings": {
-        "meta_descr": "porada, dieta, odchudzanie, poprawa trawienia, głodówka, oczyszczanie,Czy dla wszystkich są wskazane zalecane diety i kuracje? Czy powinno się jeść surowe pokarmy albo mięso? To tylko nieliczne pytania jakie się pojawiają. ",
-        "title": " porady dietetyczne, Rybnik terapie naturalne biomeridian,",
+        "meta_descr": "Rybnik.Jakie produkty można spożywać a jakich unikać w zależności od rodzaju schorzenia lub stanu organizmu.Niezawodny sposób na likwidację stanów zapalnych jako przyczyny chorób przewlekłych",
+        "title": "Doradztwo żywieniowe.Dobór pokarmów przy różnych schorzeniach.Wskazówki dietetyczne",
         "order": 7
       },
       "components": [
@@ -9730,8 +9730,8 @@
     },
     "magnetoterapia.html": {
       "settings": {
-        "meta_descr": "Dzialanie magnetoterapi w schorzeniach przewlekłych , leczenie bolu, porawianie ukrwienia, bezsennosc, oczyszczanie wątroby..",
-        "title": "Magnetoterapia  dzialanie, przeciwwskazania, ",
+        "meta_descr": "Dzialanie magnetoterapii w schorzeniach przewlekłych, terapia bolu, poprawianie ukrwienia, bezsennosci, oczyszczanie wątroby..",
+        "title": "Magnetoterapia w poprawie krążenia, oczyszczaniu wątroby, terapii bólu, bezsenności, stresie,",
         "order": 6
       },
       "components": [
