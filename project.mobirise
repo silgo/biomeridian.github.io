@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "biomeridian",
-    "currentPage": "porady zywieniowe rybnik.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -85,7 +85,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Magnetoterapia akupunktura Bańki lekarskie biorezonans świecowanie Gua Sha zioła chińskie moksa doradztwo żywieniowe",
+        "title": "ybnik magnetoterapia akupunktura bańki biorezonans zioła moksa TCM",
         "meta_descr": "Rybnik.Akupunktura na bóle, lęki, fobie, depresje i stres.Akupunktura kosmetyczna.Badanie biorezonansem.Gua Sha,poprawa krążenie limfatyczne, usuwanie tosyn i metali ciezkich.Przywracanie naturalnej odporności.Doradztwo zywieniowe.",
         "header_custom": "",
         "footer_custom": "",
