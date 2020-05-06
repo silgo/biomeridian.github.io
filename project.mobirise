@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "biomeridian",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -85,8 +85,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Rybnik:Medycyna naturalna,akupunktura,biorezonans,gua sha,daleka podczerwien,magnetoterapia,zioła,wzmacnianie odpornosci",
-        "meta_descr": "Rybnik:Akupunktura na bóle, lęki, fobie, depresje i stres.Akupunktura kosmetyczna.Badanie biorezonansem.Gua Sha,poprawa krążenie limfatyczne, usuwanie tosyn i metali ciezkich.Przywracanie naturalnej odporności.Doradztwo zywieniowe.",
+        "title": "Rybnik.terapie medycyny naturalnej,akupunktura,biorezonans,gua sha,podczerwien,magnetoterapia,zioła,wzmacnianie odpornosci",
+        "meta_descr": "Rybnik.Akupunktura na bóle, lęki, fobie, depresje i stres.Akupunktura kosmetyczna.Badanie biorezonansem.Gua Sha,poprawa krążenie limfatyczne, usuwanie tosyn i metali ciezkich.Przywracanie naturalnej odporności.Doradztwo zywieniowe.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
