@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "biomeridian",
-    "currentPage": "porady-zywieniowe-Rybnik.html",
+    "currentPage": "pijawki-lekarskie-Rybnik.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3606,7 +3606,7 @@
     "zioła-chińskie-Rybnik.html": {
       "settings": {
         "meta_descr": "Rybnik.Indywidualny Dobór ziół w zależności od syndromu. Odtruwanie organizmu z toksyn.Oczyszczanie wątroby i nerek ,usprawnienie pracy mózgu żołądka jelita, wzmocnienie funkcji płuc, pęcherza.Regulowanie pracy serca",
-        "title": "Zioła chińskie.Schorzenia przewlekłe nerek, wątroby, pęcherza ....",
+        "title": "Zioła chińskie schorzenia przewlekłe wątroby pęcherza żołądka płuc odkwaszanie",
         "order": 5
       },
       "components": [
@@ -4743,7 +4743,7 @@
     "porady-zywieniowe-Rybnik.html": {
       "settings": {
         "meta_descr": "Rybnik.Jakie produkty spożywać a jakich unikać w zależności od rodzaju schorzenia lub stanu organizmu.Niezawodny sposób na likwidację stanów zapalnych jako przyczyny chorób przewlekłych.biomeridian",
-        "title": "Doradztwo żywieniowe.Dobór pokarmów przy różnych schorzeniach.Wskazówki dietetyczne",
+        "title": "Doradztwo żywieniowe dobór pokarmów przy różnych schorzeniach wskazówki dietetyczne",
         "order": 7
       },
       "components": [
