@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "biomeridian",
-    "currentPage": "page2.html",
+    "currentPage": "porady-zywieniowe-Rybnik.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -5877,7 +5877,7 @@
     "pijawki-lekarskie-Rybnik.html": {
       "settings": {
         "meta_descr": "stosowanie pijawek lekarskich w  chorobach przewlekłych. Hirudyna i inne związki wydzielane przez pijawki pomagaja min. na  wrzody żołądka i dwunastnicy,żylaki,zakrzepowe zapalenie żył,alergie,ból głowy,reumatyzm,zapalenie korzonków,rwa kulszowa i wiele innych",
-        "title": "hirudoterapia.pijawki lekarskie.dzialanie hirudyny",
+        "title": "hirudoterapia pijawki lekarskie dzialanie hirudyny na gęstą krew ",
         "order": 9
       },
       "components": [
@@ -10198,7 +10198,7 @@
     "akupunkturaneurologiczna-Rybnik.html": {
       "settings": {
         "meta_descr": "Bardzo skuteczne i szybko pomagające zabiegi  w stanach depresji, zniechęcenia, apatii, nerwic, braku chęci działania, stanach lękowych.",
-        "title": "leczenie nerwica, lęki,depresja,apatia,stany lękowe,",
+        "title": "leczenie nerwica lęki depresja apatia stany lękowe brak chęci do działania",
         "order": 16
       },
       "components": [
