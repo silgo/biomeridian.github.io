@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "biomeridian",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -887,7 +887,8 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "szablon artykuly",
-        "order": 18
+        "order": 18,
+        "header_custom": "<meta name=\"robots\" content=\"noindex\">"
       },
       "components": [
         {
@@ -1347,7 +1348,8 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "polityka ptywatności",
-        "order": 3
+        "order": 3,
+        "header_custom": ""
       },
       "components": [
         {
@@ -8178,7 +8180,8 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Rodo",
-        "order": 1
+        "order": 1,
+        "header_custom": ""
       },
       "components": [
         {
