@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "biomeridian",
-    "currentPage": "index.html",
+    "currentPage": "banki-lekarskie-rybnik.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -87,7 +87,7 @@
         "main": true,
         "title": "Rybnik magnetoterapia akupunktura bańki biorezonans zioła moksa ",
         "meta_descr": "Rybnik.Akupunktura na bóle, lęki, fobie, depresje i stres Akupunktura kosmetyczna.Badanie biorezonansem.Gua Sha,poprawa krążenie limfatyczne, usuwanie tosyn i metali ciezkich.Przywracanie naturalnej odporności.Doradztwo zywieniowe.",
-        "header_custom": "<link rel=\"canonical\" href=\"https://biomeridian.github.io/\">\n<!-- Znaczniki JSON-LD wygenerowane przez Asystenta do oznaczania danych Google. -->\n<script type=\"application/ld+json\">\n{\n  \"@context\" : \"http://schema.org\",\n  \"@type\" : \"LocalBusiness\",\n  \"name\" : \"BMP Terapie naturalne\",\n  \"image\" : \"https://biomeridian.github.io/assets/images/mbr-122x122.png\",\n  \"telephone\" : \"501593622\",\n  \"email\" : \"kontaktbiomeridian@gmail.com\",\n  \"address\" : {\n    \"@type\" : \"PostalAddress\",\n    \"addressLocality\" : \"Rybnik\"\n  }\n}\n</script>\n",
+        "header_custom": "\n",
         "footer_custom": "",
         "html_before": ""
       },
