@@ -61,7 +61,7 @@
     "sitemapSwitcherAuto": "on",
     "siteUrl": "https://biomeridian.github.io",
     "cookiesAlert": {
-      "customDialogSelector": true,
+      "customDialogSelector": false,
       "colorText": "#424a4d",
       "colorBg": "#eaeff1",
       "colorButton": "",
