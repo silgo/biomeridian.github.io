@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "biomeridian",
-    "currentPage": "banki-lekarskie-rybnik.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -87,7 +87,7 @@
         "main": true,
         "title": "Rybnik magnetoterapia akupunktura bańki biorezonans zioła moksa ",
         "meta_descr": "Rybnik.Akupunktura na bóle, lęki, fobie, depresje i stres Akupunktura kosmetyczna.Badanie biorezonansem.Gua Sha,poprawa krążenie limfatyczne, usuwanie tosyn i metali ciezkich.Przywracanie naturalnej odporności.Doradztwo zywieniowe.",
-        "header_custom": "\n",
+        "header_custom": "<link rel=\"canonical\" href=\"https://biomeridian.github.io/\"> \n",
         "footer_custom": "",
         "html_before": ""
       },
@@ -2268,7 +2268,8 @@
       "settings": {
         "meta_descr": "Magnetoterapia pomaga na: ból krążenie artretyzm,na wątrobe,na zrost kości,na otyłość,na nadciśnienie,na alergie,na hemoroidy,na imptencje,choroby skóry",
         "title": " Magnetoterapia jak działa i na co można stosować",
-        "order": 6
+        "order": 6,
+        "header_custom": ""
       },
       "components": [
         {
