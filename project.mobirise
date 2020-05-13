@@ -28,13 +28,13 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
+        "#000000",
+        "#424a4d",
         "#093a49",
         "#7be422",
         "#6cd90e",
         "#5bcc14",
-        "#95e264",
-        "#66ed11",
-        "#000000"
+        "#95e264"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -62,12 +62,12 @@
     "siteUrl": "https://biomeridian.github.io",
     "cookiesAlert": {
       "customDialogSelector": false,
-      "colorText": "#424a4d",
+      "colorText": "#000000",
       "colorBg": "#eaeff1",
       "colorButton": "",
       "colorLink": "#424a4d",
       "underlineLink": true,
-      "opacity": "48",
+      "opacity": "1",
       "opacityOverlay": "80",
       "text": "Strona wykorzystuje technologię cookies, dalsze korzystanie wymaga zgody<a href='ciastka.html'>polityka prywatnosci</a>.",
       "textButton": "Zgoda"
