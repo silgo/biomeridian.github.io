@@ -9421,7 +9421,7 @@
         "meta_descr": "Co pokaze badanie biorezonansem.Stan jakich układów i jakich organów można sprawdzić biorezonansem.Układ oddechowy, układ krążenia, układ moczowo płciowy, układ limfatyczny, układ immunologiczny głowa kręgosłup",
         "title": "skanowanie biorezonansem całościowa mapa stanu zdrowia organizmu",
         "order": 10,
-        "header_custom": ""
+        "header_custom": "<h1>jak działa biorezonans magnetyczny</h1>\n<h2>co pokaże biorezonans magnetyczny</h2>"
       },
       "components": [
         {
