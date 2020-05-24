@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "biomeridian",
-    "currentPage": "koncha-konchowanie-uszu-rybnik.html",
+    "currentPage": "ziola-chinskie-Rybnik.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -6916,9 +6916,10 @@
     },
     "ziola-chinskie-Rybnik.html": {
       "settings": {
-        "meta_descr": "Rybnik.Indywidualny Dobór ziół w zależności od syndromu. Odtruwanie organizmu z toksyn.Oczyszczanie wątroby i nerek ,usprawnienie pracy mózgu żołądka jelita, wzmocnienie funkcji płuc, pęcherza.Regulowanie pracy serca",
-        "title": "zioła chińskie choroby wątroby pęcherza żołądka płuc odkwaszanie",
-        "order": 5
+        "meta_descr": "Indywidualny Dobór ziół w zależności od syndromu. Odtruwanie organizmu z toksyn.Oczyszczanie wątroby i nerek ,usprawnienie pracy mózgu żołądka jelita, wzmocnienie funkcji płuc, pęcherza.Regulowanie pracy serca",
+        "title": "Zastosowanie mieszanek ziół chińskich w różnych schorzeniach ",
+        "order": 5,
+        "header_custom": "<h1>działanie mieszanek ziół chińskich w chorobach</h1>"
       },
       "components": [
         {
