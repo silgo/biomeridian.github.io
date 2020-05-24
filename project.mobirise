@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "biomeridian",
-    "currentPage": "RODO.html",
+    "currentPage": "ciastka.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1473,7 +1473,7 @@
         "meta_descr": "Web Builder Description",
         "title": "polityka ptywatności",
         "order": 3,
-        "header_custom": ""
+        "header_custom": "<meta name=\"robots\" content=\"noindex\" />"
       },
       "components": [
         {
