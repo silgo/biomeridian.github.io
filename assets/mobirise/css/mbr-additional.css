@@ -9534,7 +9534,10 @@ section.lazy-placeholder:after {
   background-image: url("../../../assets/images/mbr-1920x1280.jpeg");
 }
 .cid-rWxtuWgZCu H2 {
-  color: #000000;
+  color: #f9f295;
+}
+.cid-rWxtuWgZCu .mbr-section-subtitle {
+  color: #ffffff;
 }
 .cid-rWxtvIpK6O {
   padding-top: 60px;
