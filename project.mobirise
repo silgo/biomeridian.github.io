@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "biomeridian",
-    "currentPage": "moksa-dzialanie-na-co-pomaga-Rybnik.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -95,9 +95,9 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Akupunktura bańki moksa oczyszczanie z metali ciężkich biorezonans",
+        "title": "akupunktura bańki moksa oczyszczanie z metali ciężkich biorezonans",
         "meta_descr": "Akupunktura na bóle, lęki, fobie, depresje i stres Akupunktura kosmetyczna.Badanie biorezonansem.Gua Sha,poprawa krążenie limfatyczne, usuwanie tosyn i metali ciezkich.Przywracanie naturalnej odporności.Doradztwo zywieniowe.",
-        "header_custom": "<link rel=\"canonical\" href=\"https://biomeridian.github.io/\"> \n<h1>Gabinet terapii naturalnych w Rybniku</h1>\n\n",
+        "header_custom": "<link rel=\"canonical\" href=\"https://biomeridian.github.io/\"> \n<h1>zabiegi akupunktury bańki lekarskie moksa świecowanie uszu konchowanie oczyszcanie organizmu w Rybnik</h1>\n\n",
         "footer_custom": "",
         "html_before": ""
       },
