@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "biomeridian",
-    "currentPage": "index.html",
+    "currentPage": "wzmacnianie-odpornosci-masaz-GuaSha-Rybnik.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -9439,7 +9439,7 @@
         "meta_descr": "Rybnik Specjalny masaż wzmacniajacy uklad odpornosciowy i poruszajcy przeplyw limfy.Oczyszczanie organizmu, poprawa krążenia.Poprawa jakości snu",
         "title": "proste wzmacnianie układu odpornościowego masażem  Gua Sha",
         "order": 13,
-        "header_custom": "<h1>gua sha co to jest jak stosować i na co pomaga</h1>"
+        "header_custom": "<h1>gua sha co to jest jak stosować i na co pomaga</h1>\nStrukturierte Daten als JSON-LD-Markup\nFolgenden Skriptblock zum HEAD-Bereich Ihres HTML hinzufügen:\n<!-- JSON-LD-Markup generiert von Google Strukturierte Daten: Markup-Hilfe -->\n<script type=\"application/ld+json\">\n{\n  \"@context\" : \"http://schema.org\",\n  \"@type\" : \"Product\",\n  \"name\" : \"Masaż Gua Sha\",\n  \"image\" : \"https://biomeridian.github.io/assets/images/img-20191203-134633-510x680.jpeg\",\n  \"url\" : \"https://biomeridian.github.io/wzmacnianie-odpornosci-masaz-GuaSha-Rybnik.html\",\n  \"brand\" : {\n    \"@type\" : \"Brand\",\n    \"logo\" : \"https://biomeridian.github.io/assets/images/mbr-122x122.png\"\n  },\n  \"offers\" : {\n    \"@type\" : \"Offer\",\n    \"price\" : \"60 PLN\"\n  }\n}\n</script>"
       },
       "components": [
         {
