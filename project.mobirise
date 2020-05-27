@@ -9430,10 +9430,10 @@
     },
     "depresja-fobia-apatia-wypalenie-Rybnik.html": {
       "settings": {
-        "meta_descr": "Skuteczna terapia  w przypadku fobii apatii lękach braku chęci do działania.Akupunktura czaszki Yamamoto. ",
+        "meta_descr": "Skuteczna terapia w przypadku fobii apatii lękach braku chęci do działania.Akupunktura czaszki Yamamoto. ",
         "title": "Terapia na  lęki fobie depresje apatie brak chęci do działania burnout",
         "order": 17,
-        "header_custom": "<h1>Usuwanie lęków apatii depresji wypalenia zawodowoego fobii</h1>"
+        "header_custom": "<h1>Usuwanie lęków apatii depresji wypalenia zawodowoego fobii</h1>\n<!-- JSON-LD-Markup generiert von Google Strukturierte Daten: Markup-Hilfe -->\n<script type=\"application/ld+json\">\n{\n  \"@context\" : \"http://schema.org\",\n  \"@type\" : \"Product\",\n  \"name\" : \"Akupunktura neurologiczna\",\n  \"image\" : \"https://biomeridian.github.io/assets/images/img-7497-510x383.jpg\",\n  \"description\" : \"usuwanie fobii lęków apatii chęci do działania\",\n  \"url\" : \"https://biomeridian.github.io/depresja-fobia-apatia-wypalenie-Rybnik.html\",\n  \"brand\" : {\n    \"@type\" : \"Brand\",\n    \"logo\" : \"https://biomeridian.github.io/assets/images/mbr-122x122.png\"\n  },\n  \"offers\" : {\n    \"@type\" : \"Offer\",\n    \"price\" : \"60 PLN\"\n  }\n}\n</script>"
       },
       "components": [
         {
