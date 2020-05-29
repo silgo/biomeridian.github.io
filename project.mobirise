@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "biomeridian",
-    "currentPage": "index.html",
+    "currentPage": "ziola-lecznicze-mieszanki-ziolowe-Rybnik.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4645,9 +4645,9 @@
     "ziola-lecznicze-mieszanki-ziolowe-Rybnik.html": {
       "settings": {
         "meta_descr": "Dobór ziół leczniczych do syndromu. Oczyszczanie wątroby i nerek,poprawa pracy mózgu żołądka,jelit. Wzmacnianie funkcji płuc,pęcherza i pracy serca",
-        "title": "zastosowanie mieszanek ziól leczniczych w różnych schorzeniach",
+        "title": "mieszanki chińskich ziół leczniczych w różnych schorzeniach",
         "order": 5,
-        "header_custom": "<h1>działanie mieszanek ziół leczniczych w leczeniu schorzeń</h1>"
+        "header_custom": "<h1>zastosowanie chińskich ziół leczniczych  schorzeniach</h1>"
       },
       "components": [
         {
