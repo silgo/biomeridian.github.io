@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "biomeridian",
-    "currentPage": "index.html",
+    "currentPage": "biomeridian.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1957,7 +1957,7 @@
         "meta_descr": "Web Page Creator Description",
         "title": "o mnie",
         "order": 19,
-        "header_custom": ""
+        "header_custom": "<meta name=\"robots\" content=\"noindex\">"
       },
       "components": [
         {
