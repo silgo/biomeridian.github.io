@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "biomeridian",
-    "currentPage": "moksa-dzialanie-na-co-pomaga-Rybnik.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1956,7 +1956,8 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "o mnie",
-        "order": 19
+        "order": 19,
+        "header_custom": ""
       },
       "components": [
         {
