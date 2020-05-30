@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "biomeridian",
-    "currentPage": "index.html",
+    "currentPage": "magnetoterapia-dzialanie-Rybnik.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3500,10 +3500,10 @@
     },
     "magnetoterapia-dzialanie-Rybnik.html": {
       "settings": {
-        "meta_descr": "Magnetoterapia pomaga na: ból krążenie artretyzm,na wątrobe,na zrost kości,na otyłość,na nadciśnienie,na alergie,na hemoroidy,na imptencje,choroby skóry",
-        "title": " Magnetoterapia jak działa i na co można stosować",
+        "meta_descr": "Magnetoterapia pomaga na wiele schorzeń. Działa przeciwbólowo na niedokrwistość stany zapalne artretyzm migrenę reumatyzm i wiele innych ",
+        "title": "magnetoterapia jak działa na co pomaga przeciwwskazania",
         "order": 6,
-        "header_custom": "<h1>magnetoterapia jak dziła i na co pomaga</h1>"
+        "header_custom": "<h1>na co pomaga i jak działa magnetoterapia </h1>"
       },
       "components": [
         {
