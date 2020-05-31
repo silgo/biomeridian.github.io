@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "biomeridian",
-    "currentPage": "index.html",
+    "currentPage": "ziola-lecznicze-mieszanki-ziolowe-Rybnik.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3536,7 +3536,8 @@
         "meta_descr": "Magnetoterapia pomaga na wiele schorzeń. Działa przeciwbólowo na niedokrwistość stany zapalne artretyzm migrenę reumatyzm i wiele innych ",
         "title": "magnetoterapia jak działa na co pomaga przeciwwskazania",
         "order": 6,
-        "header_custom": "<h1>na co pomaga i jak działa magnetoterapia </h1>"
+        "header_custom": "<h1>na co pomaga i jak działa magnetoterapia </h1>",
+        "footer_custom": ""
       },
       "components": [
         {
@@ -4681,7 +4682,8 @@
         "meta_descr": "Dobór ziół leczniczych do syndromu. Oczyszczanie wątroby i nerek,poprawa pracy mózgu żołądka,jelit. Wzmacnianie funkcji płuc,pęcherza i pracy serca",
         "title": "mieszanki chińskich ziół leczniczych w różnych schorzeniach",
         "order": 5,
-        "header_custom": "<h1>zastosowanie chińskich ziół leczniczych  schorzeniach</h1>"
+        "header_custom": "<h1>zastosowanie chińskich ziół leczniczych  schorzeniach</h1>",
+        "footer_custom": "<script type=\"text/javascript\">\n    window._mfq = window._mfq || [];\n    (function() {\n        var mf = document.createElement(\"script\");\n        mf.type = \"text/javascript\"; mf.defer = true;\n        mf.src = \"//cdn.mouseflow.com/projects/69e70d4c-58f0-4453-b8df-b324835f0ac5.js\";\n        document.getElementsByTagName(\"head\")[0].appendChild(mf);\n    })();\n</script>"
       },
       "components": [
         {
