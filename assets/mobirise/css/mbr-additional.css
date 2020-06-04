@@ -2243,6 +2243,9 @@ section.lazy-placeholder:after {
 .cid-rXmXXcnCgd blockquote {
   color: #767676;
 }
+.cid-rXmXXcnCgd .mbr-text DIV {
+  text-align: left;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #efefef;
