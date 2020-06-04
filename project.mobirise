@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "biomeridian",
-    "currentPage": "index.html",
+    "currentPage": "masaz-Gua-Sha-Rybnik.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -61,7 +61,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 136,
+    "uniqCompNum": 146,
     "versionPublish": "4.12.3",
     "imageResize": true,
     "screenshot": "screenshot.png",
@@ -1011,7 +1011,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "szablon artykuly",
-        "order": 18,
+        "order": 16,
         "header_custom": "<meta name=\"robots\" content=\"noindex\">"
       },
       "components": [
@@ -1956,7 +1956,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "o mnie",
-        "order": 19,
+        "order": 17,
         "header_custom": "<meta name=\"robots\" content=\"noindex\">"
       },
       "components": [
@@ -2393,7 +2393,7 @@
       "settings": {
         "meta_descr": "Dieta dobrana do schorzenia. Likwidowanie stanów zapalnych głównej przyczyny chorób wszystkich  przewlekłych",
         "title": "porady żywieniowe w schorzeniach i usuwanie stanów zapalnych",
-        "order": 7,
+        "order": 6,
         "header_custom": "<h1>poradyżywieniowe w chorobach</h1>\n<h1>usuwanie stanów zapalnych</h1>"
       },
       "components": [
@@ -3068,7 +3068,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Rodo",
-        "order": 1,
+        "order": 2,
         "header_custom": "<meta name=\"robots\" content=\"noindex\" />"
       },
       "components": [
@@ -3502,7 +3502,7 @@
       "settings": {
         "meta_descr": "Magnetoterapia pomaga na wiele schorzeń. Działa przeciwbólowo na niedokrwistość stany zapalne artretyzm migrenę reumatyzm i wiele innych ",
         "title": "magnetoterapia jak działa na co pomaga przeciwwskazania",
-        "order": 6,
+        "order": 5,
         "header_custom": "<h1>na co pomaga i jak działa magnetoterapia </h1>",
         "footer_custom": ""
       },
@@ -3964,7 +3964,7 @@
       "settings": {
         "meta_descr": "Co pokaze badanie biorezonansem.Stan jakich układów i jakich organów można sprawdzić biorezonansem.Układ oddechowy, układ krążenia, układ moczowo płciowy, układ limfatyczny, układ immunologiczny głowa kręgosłup",
         "title": "skanowanie biorezonansem całościowa mapa stanu zdrowia organizmu",
-        "order": 10,
+        "order": 9,
         "header_custom": "<h1>jak działa biorezonans magnetyczny</h1>\n<h2>co pokaże biorezonans magnetyczny</h2>"
       },
       "components": [
@@ -4648,7 +4648,7 @@
       "settings": {
         "meta_descr": "Dobór ziół leczniczych do syndromu. Oczyszczanie wątroby i nerek,poprawa pracy mózgu żołądka,jelit. Wzmacnianie funkcji płuc,pęcherza i pracy serca",
         "title": "mieszanki chińskich ziół leczniczych w różnych schorzeniach",
-        "order": 5,
+        "order": 4,
         "header_custom": "<h1>zastosowanie chińskich ziół leczniczych  schorzeniach</h1>",
         "footer_custom": "<script type=\"text/javascript\">\n    window._mfq = window._mfq || [];\n    (function() {\n        var mf = document.createElement(\"script\");\n        mf.type = \"text/javascript\"; mf.defer = true;\n        mf.src = \"//cdn.mouseflow.com/projects/69e70d4c-58f0-4453-b8df-b324835f0ac5.js\";\n        document.getElementsByTagName(\"head\")[0].appendChild(mf);\n    })();\n</script>"
       },
@@ -5327,7 +5327,7 @@
       "settings": {
         "meta_descr": "Pijawki lekarskie na wrzody żołądka i dwunastnicy,żylaki,zapalenie żył,alergie,ból głowy,reumatyzm,zapalenie korzonków,rwa kulszowa..",
         "title": "hirudoterapia pijawki lekarskie dzialanie hirudyny na gęstą krew ",
-        "order": 9,
+        "order": 8,
         "header_custom": "<h1>jak działaja i na co pomagają pijawki</h1>"
       },
       "components": [
@@ -5788,7 +5788,7 @@
       "settings": {
         "meta_descr": "bańki lekarskie bezogniowe i ogniowe skuteczny sposób na mobilizację odporności. Szybkie efekty aktywacji odporności.Masaż bańkami chińskimi.",
         "title": " Bańki lekarskie szybkie wzmocnienie odporności organizmu",
-        "order": 12,
+        "order": 11,
         "header_custom": "<h1>bańki lekarskie sposób na szybkie wzmocnienie odporności</h1>"
       },
       "components": [
@@ -6252,7 +6252,7 @@
       "settings": {
         "meta_descr": "swiecowanie uszu, koncha oczyszczanie uszu z woskowiny grzybow drozdzy, problemy ze sluchem,bole glowy, migreny, zwieksza jasnosc umyslu, laczenie z wyzszym ja.",
         "title": "koncha świecowanie uszu konchowanie w domu Rybnik ",
-        "order": 11,
+        "order": 10,
         "header_custom": "<h1>technika świecowania konchowania uszu</h1>\n<h2>na co działa koncha</h2>\n<!-- JSON-LD-Markup generiert von Google Strukturierte Daten: Markup-Hilfe -->\n<script type=\"application/ld+json\">\n{\n  \"@context\" : \"http://schema.org\",\n  \"@type\" : \"LocalBusiness\",\n  \"name\" : \"świecowanie uszu koncha Rybnik\",\n  \"image\" : \"https://biomeridian.github.io/assets/images/img-20200323-165858-510x383.jpg\",\n  \"telephone\" : \"501593622\",\n  \"email\" : \"kontaktbiomeridian@gmail.com\",\n  \"address\" : {\n    \"@type\" : \"PostalAddress\",\n    \"streetAddress\" : \"Jankowicka\",\n    \"addressLocality\" : \"Rybnik\",\n    \"addressCountry\" : \"Polska\"\n  },\n  \"url\" : \"https://biomeridian.github.io/koncha-konchowanie-uszu-rybnik.html\"\n}\n</script>"
       },
       "components": [
@@ -6933,7 +6933,7 @@
       "settings": {
         "meta_descr": "Moksa wzmocnia układ immunologiczny, zwiększa produkcje komórek krwi i płynów ciała.Reguluje układ nerwowy i endokrynny.Reguluje ciśnienie krwi i układ krążenia\nPoprawia funkcjonalnoś układu oddechowego, trawiennego i rozrodczego.Zmniejsza stany zapalne.Uśmierza ból.Wspomaga w terapiach onkologicznych.\n\n",
         "title": "Moksa czyli terapia ciepłem szybka pomoc w wielu dolegliwościach",
-        "order": 15,
+        "order": 13,
         "header_custom": "<h1>moksa co to jest i na co pomaga</h1>\n<!-- JSON-LD-Markup generiert von Google Strukturierte Daten: Markup-Hilfe -->\n<script type=\"application/ld+json\">\n{\n  \"@context\" : \"http://schema.org\",\n  \"@type\" : \"LocalBusiness\",\n  \"name\" : \"moksa terapia ciepłem\",\n  \"image\" : \"https://biomeridian.github.io/assets/images/img-20200326-222051-900x675.jpg\",\n  \"telephone\" : \"501593622\",\n  \"email\" : \"kontaktbiomeridian@gmail.com\",\n  \"address\" : {\n    \"@type\" : \"PostalAddress\",\n    \"streetAddress\" : \"Jankowicka\",\n    \"addressLocality\" : \"Rybnik\",\n    \"addressCountry\" : \"Polen\"\n  },\n  \"url\" : \"https://biomeridian.github.io/moksa-terapia-cieplem-Rybnik.html\"\n}\n</script>"
       },
       "components": [
@@ -7615,7 +7615,7 @@
       "settings": {
         "meta_descr": "Skuteczna terapia w przypadku fobii apatii lękach braku chęci do działania.Akupunktura czaszki Yamamoto. ",
         "title": "Terapia na fobie depresje apatie wypalenie zawodowe burnout",
-        "order": 17,
+        "order": 15,
         "header_custom": "<h1>Usuwanie lęków apatii depresji wypalenia zawodowoego fobii</h1>\n<!-- JSON-LD-Markup generiert von Google Strukturierte Daten: Markup-Hilfe -->\n<script type=\"application/ld+json\">\n{\n  \"@context\" : \"http://schema.org\",\n  \"@type\" : \"Product\",\n  \"name\" : \"Akupunktura neurologiczna\",\n  \"image\" : \"https://biomeridian.github.io/assets/images/img-7497-510x383.jpg\",\n  \"description\" : \"usuwanie fobii lęków apatii chęci do działania\",\n  \"url\" : \"https://biomeridian.github.io/depresja-fobia-apatia-wypalenie-Rybnik.html\",\n  \"brand\" : {\n    \"@type\" : \"Brand\",\n    \"logo\" : \"https://biomeridian.github.io/assets/images/mbr-122x122.png\"\n  },\n  \"offers\" : {\n    \"@type\" : \"Offer\",\n    \"price\" : \"60 PLN\"\n  }\n}\n</script>"
       },
       "components": [
@@ -8079,8 +8079,8 @@
       "settings": {
         "meta_descr": "masaż wzmacniajacy uklad odpornosciowy porusza przepływ limfy.Oczyszcza organizm, poprawia krążenie, likwiduje napięcia ból wzmacnia organizm i organy",
         "title": "masaż Gua Sha wzmacnianie układu odpornościowego skutecznym masażem",
-        "order": 13,
-        "header_custom": "<h1>gua sha co to jest jak stosować i na co pomaga</h1>\nStrukturierte Daten als JSON-LD-Markup\nFolgenden Skriptblock zum HEAD-Bereich Ihres HTML hinzufügen:\n<!-- JSON-LD-Markup generiert von Google Strukturierte Daten: Markup-Hilfe -->\n<script type=\"application/ld+json\">\n{\n  \"@context\" : \"http://schema.org\",\n  \"@type\" : \"Product\",\n  \"name\" : \"Masaż Gua Sha\",\n  \"image\" : \"https://biomeridian.github.io/assets/images/img-20191203-134633-510x680.jpeg\",\n  \"url\" : \"https://biomeridian.github.io/wzmacnianie-odpornosci-masaz-GuaSha-Rybnik.html\",\n  \"brand\" : {\n    \"@type\" : \"Brand\",\n    \"logo\" : \"https://biomeridian.github.io/assets/images/mbr-122x122.png\"\n  },\n  \"offers\" : {\n    \"@type\" : \"Offer\",\n    \"price\" : \"60 PLN\"\n  }\n}\n</script>"
+        "order": 12,
+        "header_custom": "<h1>gua sha co to jest jak stosować i na co pomaga</h1>\n"
       },
       "components": [
         {
@@ -8537,7 +8537,7 @@
       "settings": {
         "meta_descr": "Zabiegi na twarz. Zmniejszanie i wygładzanie zmarszczek na twarzy. Poprawa wyglądu skóry pod oczami.Akupunktura kosmetyczna.",
         "title": "Zabiegi na twarz. Zmniejszanie likwidowanie zmarszczek na twarzy.",
-        "order": 16,
+        "order": 14,
         "header_custom": "<h1>Akupunktura dla zdrowia i urody</h1>\n<h2>zabiegi na twarz poprawia wyglądu skóry</h2>"
       },
       "components": [
@@ -8998,7 +8998,7 @@
       "settings": {
         "meta_descr": "Oczyszczanie organizmu z metali ciężkich jak. Usuwanie  toksyn z organizmu bez powodowania stresu oksydacyjnego. Glifosat Aluminium Rtęć",
         "title": "oczyszczanie z metali ciężkich bez efektu stresu oksdacyjnego",
-        "order": 8,
+        "order": 7,
         "header_custom": "<h1>oczyszcanie organizmu z metali ciężkich i toksyn w Rybniku</h1>"
       },
       "components": [
