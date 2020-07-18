@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "biomeridian",
-    "currentPage": "index.html",
+    "currentPage": "depresja-fobia-apatia-wypalenie-Rybnik.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3508,7 +3508,7 @@
         "meta_descr": "Dobór ziół leczniczych do syndromu. Oczyszczanie wątroby i nerek,poprawa pracy mózgu żołądka,jelit. Wzmacnianie funkcji płuc,pęcherza i pracy serca",
         "title": "mieszanki chińskich ziół leczniczych w różnych schorzeniach",
         "order": 3,
-        "header_custom": "<h1>zastosowanie chińskich ziół leczniczych  schorzeniach</h1>",
+        "header_custom": "<link rel=\"alternate\" hreflang=\"pl-PL\" href=\"https://biomeridian.github.io\"/>\n<h1>zastosowanie chińskich ziół leczniczych  schorzeniach</h1>",
         "footer_custom": "<script type=\"text/javascript\">\n    window._mfq = window._mfq || [];\n    (function() {\n        var mf = document.createElement(\"script\");\n        mf.type = \"text/javascript\"; mf.defer = true;\n        mf.src = \"//cdn.mouseflow.com/projects/69e70d4c-58f0-4453-b8df-b324835f0ac5.js\";\n        document.getElementsByTagName(\"head\")[0].appendChild(mf);\n    })();\n</script>"
       },
       "components": [
@@ -4648,7 +4648,7 @@
         "meta_descr": "bańki lekarskie bezogniowe i ogniowe skuteczny sposób na mobilizację odporności. Szybkie efekty aktywacji odporności.Masaż bańkami chińskimi.",
         "title": " Bańki lekarskie szybkie wzmocnienie odporności organizmu",
         "order": 10,
-        "header_custom": "<h1>bańki lekarskie sposób na szybkie wzmocnienie odporności</h1>"
+        "header_custom": "<link rel=\"alternate\" hreflang=\"pl-PL\" href=\"https://biomeridian.github.io\"/>\n<h1>bańki lekarskie szybkie wzmocnienie odporności</h1>"
       },
       "components": [
         {
@@ -5112,7 +5112,7 @@
         "meta_descr": "swiecowanie uszu, koncha oczyszczanie uszu z woskowiny grzybow drozdzy, problemy ze sluchem,bole glowy, migreny, zwieksza jasnosc umyslu, laczenie z wyzszym ja.",
         "title": "koncha świecowanie uszu konchowanie w domu Rybnik ",
         "order": 9,
-        "header_custom": "<link rel=\"alternate\" hreflang=\"x-default\" href=\"https://biomeridian.github.io\"/>\n\n<h1>technika świecowania konchowania uszu</h1>\n<h2>na co działa koncha</h2>\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org/\", \n  \"@type\": \"Product\", \n  \"name\": \"świecowanie uszu\",\n  \"image\": \"https://biomeridian.github.io/assets/images/img-20200610-213350-510x933.jpg\",\n  \"description\": \"Terapia ma na celu udrożnienie przewodów słuchowych. Poprawia słuch, likwiduje infekcje zatok, bóle głowy, migreny oraz udrażnia przepływ limfy w okolicach uszu i szyi\",\n  \"brand\": \"BMP Biomeridian Koncha\",\n  \"sku\": \"\",\n  \"offers\": {\n    \"@type\": \"Offer\",\n    \"url\": \"https://biomeridian.github.io/swiecowanie-konchowanie-uszu-koncha-rybnik.html\",\n    \"priceCurrency\": \"PLN\",\n    \"price\": \"60\",\n    \"itemCondition\": \"https://schema.org/NewCondition\"\n  },\n  \"aggregateRating\": {\n    \"@type\": \"AggregateRating\",\n    \"ratingValue\": \"5\",\n    \"bestRating\": \"5\",\n    \"worstRating\": \"1\",\n    \"ratingCount\": \"5\"\n  },\n  \"review\": [{\n    \"@type\": \"Review\",\n    \"reviewBody\": \"\",\n    \"author\": {\"@type\": \"Person\", \"name\": \"\"}\n  },{\n    \"@type\": \"Review\",\n    \"reviewBody\": \"\",\n    \"author\": {\"@type\": \"Person\", \"name\": \"\"}\n  },{\n    \"@type\": \"Review\",\n    \"reviewBody\": \"\",\n    \"author\": {\"@type\": \"Person\", \"name\": \"\"}\n  }]\n}\n</script>\n\n\n\n\n\n"
+        "header_custom": "\n\n<h1>technika świecowania konchowania uszu</h1>\n<h2>na co działa koncha</h2>\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org/\", \n  \"@type\": \"Product\", \n  \"name\": \"świecowanie uszu\",\n  \"image\": \"https://biomeridian.github.io/assets/images/img-20200610-213350-510x933.jpg\",\n  \"description\": \"Terapia ma na celu udrożnienie przewodów słuchowych. Poprawia słuch, likwiduje infekcje zatok, bóle głowy, migreny oraz udrażnia przepływ limfy w okolicach uszu i szyi\",\n  \"brand\": \"BMP Biomeridian Koncha\",\n  \"sku\": \"\",\n  \"offers\": {\n    \"@type\": \"Offer\",\n    \"url\": \"https://biomeridian.github.io/swiecowanie-konchowanie-uszu-koncha-rybnik.html\",\n    \"priceCurrency\": \"PLN\",\n    \"price\": \"60\",\n    \"itemCondition\": \"https://schema.org/NewCondition\"\n  },\n  \"aggregateRating\": {\n    \"@type\": \"AggregateRating\",\n    \"ratingValue\": \"5\",\n    \"bestRating\": \"5\",\n    \"worstRating\": \"1\",\n    \"ratingCount\": \"5\"\n  },\n  \"review\": [{\n    \"@type\": \"Review\",\n    \"reviewBody\": \"\",\n    \"author\": {\"@type\": \"Person\", \"name\": \"\"}\n  },{\n    \"@type\": \"Review\",\n    \"reviewBody\": \"\",\n    \"author\": {\"@type\": \"Person\", \"name\": \"\"}\n  },{\n    \"@type\": \"Review\",\n    \"reviewBody\": \"\",\n    \"author\": {\"@type\": \"Person\", \"name\": \"\"}\n  }]\n}\n</script>\n\n\n\n\n\n"
       },
       "components": [
         {
@@ -5793,7 +5793,7 @@
         "meta_descr": "Skuteczna terapia w przypadku fobii apatii lękach braku chęci do działania.Akupunktura czaszki Yamamoto. ",
         "title": "Terapia na fobie depresje apatie wypalenie zawodowe burnout",
         "order": 15,
-        "header_custom": "<h1>Usuwanie lęków apatii depresji wypalenia zawodowoego fobii</h1>\n<!-- JSON-LD-Markup generiert von Google Strukturierte Daten: Markup-Hilfe -->\n<script type=\"application/ld+json\">\n{\n  \"@context\" : \"http://schema.org\",\n  \"@type\" : \"Product\",\n  \"name\" : \"Akupunktura neurologiczna\",\n  \"image\" : \"https://biomeridian.github.io/assets/images/img-7497-510x383.jpg\",\n  \"description\" : \"usuwanie fobii lęków apatii chęci do działania\",\n  \"url\" : \"https://biomeridian.github.io/depresja-fobia-apatia-wypalenie-Rybnik.html\",\n  \"brand\" : {\n    \"@type\" : \"Brand\",\n    \"logo\" : \"https://biomeridian.github.io/assets/images/mbr-122x122.png\"\n  },\n  \"offers\" : {\n    \"@type\" : \"Offer\",\n    \"price\" : \"60 PLN\"\n  }\n}\n</script>"
+        "header_custom": "<link rel=\"alternate\" hreflang=\"pl-PL\" href=\"https://biomeridian.github.io\"/>\n<h1>Usuwanie lęków apatii depresji wypalenia zawodowoego fobii</h1>\n<!-- JSON-LD-Markup generiert von Google Strukturierte Daten: Markup-Hilfe -->\n<script type=\"application/ld+json\">\n{\n  \"@context\" : \"http://schema.org\",\n  \"@type\" : \"Product\",\n  \"name\" : \"Akupunktura neurologiczna\",\n  \"image\" : \"https://biomeridian.github.io/assets/images/img-7497-510x383.jpg\",\n  \"description\" : \"usuwanie fobii lęków apatii chęci do działania\",\n  \"url\" : \"https://biomeridian.github.io/depresja-fobia-apatia-wypalenie-Rybnik.html\",\n  \"brand\" : {\n    \"@type\" : \"Brand\",\n    \"logo\" : \"https://biomeridian.github.io/assets/images/mbr-122x122.png\"\n  },\n  \"offers\" : {\n    \"@type\" : \"Offer\",\n    \"price\" : \"60 PLN\"\n  }\n}\n</script>"
       },
       "components": [
         {
@@ -6257,7 +6257,7 @@
         "meta_descr": "Zabiegi na twarz. Zmniejszanie i wygładzanie zmarszczek na twarzy. Poprawa wyglądu skóry pod oczami.Akupunktura kosmetyczna.",
         "title": "Zabiegi na twarz. Zmniejszanie likwidowanie zmarszczek na twarzy.",
         "order": 14,
-        "header_custom": "<h1>Akupunktura dla zdrowia i urody</h1>\n<h2>zabiegi na twarz poprawia wyglądu skóry</h2>"
+        "header_custom": "<link rel=\"alternate\" hreflang=\"pl-PL\" href=\"https://biomeridian.github.io\"/>\n<h1>Akupunktura dla zdrowia i urody</h1>\n<h2>zabiegi na twarz poprawia wyglądu skóry likwidacja zmarszczek</h2>"
       },
       "components": [
         {
@@ -6718,7 +6718,7 @@
         "meta_descr": "Oczyszczanie organizmu z metali ciężkich jak. Usuwanie  toksyn z organizmu bez powodowania stresu oksydacyjnego. Glifosat Aluminium Rtęć",
         "title": "oczyszczanie z metali ciężkich bez efektu stresu oksdacyjnego",
         "order": 6,
-        "header_custom": "<h1>oczyszcanie organizmu z metali ciężkich i toksyn w Rybniku</h1>"
+        "header_custom": "\n<h1>oczyszcanie organizmu z metali ciężkich i toksyn w Rybniku</h1>"
       },
       "components": [
         {
@@ -7179,7 +7179,7 @@
         "meta_descr": "Moksa wzmocnia układ immunologiczny, zwiększa produkcje komórek krwi i płynów ciała.Reguluje układ nerwowy i endokrynny.Reguluje ciśnienie krwi i układ krążenia\nPoprawia funkcjonalnoś układu oddechowego, trawiennego i rozrodczego.Zmniejsza stany zapalne.Uśmierza ból.Wspomaga w terapiach onkologicznych.\n\n",
         "title": "Moksa czyli terapia ciepłem jak dziala i na co pomaga",
         "order": 12,
-        "header_custom": "<h1>Co to jest Moksa i na co pomaga</h1>\n<h2>Niezwykła skuteczność  moksy\nco to jest Moksa Smoka</h2>"
+        "header_custom": "<link rel=\"alternate\" hreflang=\"pl-PL\" href=\"https://biomeridian.github.io\"/>\n<h1>Co to jest Moksa i na co pomaga</h1>\n<h2>jak działa  moksy\nco to jest Moksa Smoka Rybnik</h2>"
       },
       "components": [
         {
@@ -7861,7 +7861,7 @@
         "meta_descr": "masaż Gua Sha wzmacnia uklad odpornosciowy porusza przepływ limfy.Oczyszcza organizm, poprawia krążenie, likwiduje napięcia bóle i wzmacnia ogólnie kondycje organizmu i polepsza samopoczucie ",
         "title": "masaż Gua Sha proste wzmocnianie układu odpornościowego ",
         "order": 11,
-        "header_custom": "<h1>masaż Gua Sha proste wzmocnianie układu odpornościowego </h1>\n"
+        "header_custom": "\n<h1>masaż Gua Sha proste wzmocnianie układu odpornościowego </h1>\n"
       },
       "components": [
         {
@@ -8319,7 +8319,7 @@
         "meta_descr": "Magnetoterapia pomaga na wiele schorzeń. Działa przeciwbólowo na niedokrwistość stany zapalne artretyzm migrenę reumatyzm i wiele innych ",
         "title": "magnetoterapia jak działa na co pomaga przeciwwskazania",
         "order": 4,
-        "header_custom": "<h1>magnetoterapia rybnik </h1>\n<h2>co to jest magnetoterapia i na co działa</h2>",
+        "header_custom": "\n<h1>magnetoterapia rybnik </h1>\n<h2>co to jest magnetoterapia i na co działa</h2>",
         "footer_custom": ""
       },
       "components": [
@@ -8781,7 +8781,7 @@
         "meta_descr": "biorezonans magnetyczny to szybki dokładny i bezbolesny skan organizmu pod kątem występowania stanów chorobowych, pasożytów, zwyrodnień oraz innych obciążeń",
         "title": "biorezonans magnetyczny skanowanie wszystkich ukladów organizmu ",
         "order": 8,
-        "header_custom": "<h1>jak działa biorezonans magnetyczny</h1>\n<h2>co pokaże biorezonans magnetyczny</h2>"
+        "header_custom": "\n<h1>jak działa biorezonans magnetyczny</h1>\n<h2>co pokaże biorezonans magnetyczny</h2>"
       },
       "components": [
         {
