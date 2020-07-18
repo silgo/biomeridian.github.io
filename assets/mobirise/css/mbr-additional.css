@@ -42,11 +42,11 @@ body {
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-display: swap;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -548,11 +548,11 @@ a:hover {
 }
 .form-control {
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-display: swap;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 blockquote {
   border-color: #5e737b;
@@ -1101,8 +1101,8 @@ section.lazy-placeholder:after {
   color: #ffffff !important;
 }
 .cid-rUfsJ8iX9f {
-  padding-top: 135px;
-  padding-bottom: 0px;
+  padding-top: 105px;
+  padding-bottom: 30px;
   background-image: url("../../../assets/images/mbr-15-1920x1280.jpg");
 }
 .cid-rUfsJ8iX9f P {
@@ -1119,8 +1119,8 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-rUf5tTSLHu {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 30px;
+  padding-bottom: 60px;
   background-color: #c1c1c1;
 }
 .cid-rUf5tTSLHu .line {
