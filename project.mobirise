@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "biomeridian",
-    "currentPage": "zmarszczki-zmniejszanie-wygladzanie-Rybnik.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -99,7 +99,7 @@
         "main": true,
         "title": "Akupunktura w stanach depresji i inne terapie naturalne-Rybnik",
         "meta_descr": "Akupunktura w depresji, stanach lękowych, fobiach, wypaleniu zawodowym, apatii. Świecowanie uszu, oczyszczanie, bańki lekarskie moksa organizmu, inne terapie",
-        "header_custom": "\n\n\n\n\n\n\n\n\n\n\n",
+        "header_custom": "h1>fobie lęki apatia wypalenie pomoc Rybnik</h1>\n<h2>akupunktura na co działa Rybnik</h2>\n\n\n\n\n\n\n\n\n\n\n",
         "footer_custom": "",
         "html_before": ""
       },
